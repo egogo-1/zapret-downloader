@@ -1,1 +1,4 @@
 zapret/
+dist/
+build/
+zapret_downloader.spec
