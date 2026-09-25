@@ -37,5 +37,6 @@
 ```bash
 git clone https://github.com/egogo-1/zapret-downloader.git
 cd zapret-downloader
-python zapret_downloader.py
 pip install requests
+python zapret_downloader.py
+
