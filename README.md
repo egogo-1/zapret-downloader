@@ -20,7 +20,7 @@
 
 - **Оригинальный проект:** [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 - **Автор:** [Flowseal](https://github.com/Flowseal)
-- **Лицензия оригинала:** [Указать лицензию, например MIT]
+- **Лицензия оригинала:** MIT License
 
 Огромная благодарность Flowseal за создание и поддержку `zapret-discord-youtube`. Без его труда этот проект был бы невозможен.
 
